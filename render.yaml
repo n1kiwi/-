@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: math
+    name: 鯖プロ管理者希望sakuya
     env: python
     region: Oregon
     plan: free
